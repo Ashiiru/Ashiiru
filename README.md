@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Ashiiru
-- 👀 I’m interested in WebDesign
-- 🌱 I’m currently learning about html, css and javascript
-- 📫 You can contact me via e-mail: afonsomonteirosilva17@outlook.com
+- 👋 Hi, I’m @Afonso
+- 👀 I’m interested in GameDev as a Hobby
+- 🌱 I’m currently learning Go Dot
+- 📫 You can contact me via e-mail: afonsomultimedia@outlook.pt
+- 😁 https://www.afonsomonteirosilva.com/
 
 <!---
 Ashiiru/Ashiiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
